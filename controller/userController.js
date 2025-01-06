@@ -21,7 +21,7 @@
 //     }
 // }
 
-import user from "../models/usermodel.js";
+import user from "../models/userModel.js";
 export const create =async(req, res)=>{
     try{
         
